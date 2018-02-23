@@ -4,7 +4,7 @@
 
 ### Why put together this handbook?
 
-The framework is a mess. Consulting chartered accountant, banks, and the tax office, all of whom have their own version of the law, is a headache you shouldn't deal with when you're just starting out. This is to simply things for you - give you a simple and comprehensive starting point to make sense of things.
+The legal framework is a mess. Consulting chartered accountants, banks, and the tax office, all of whom have their own version of the law, is a headache you shouldn't have to deal with when you're just starting out. This is to simplify things for you - give you a simple and comprehensive starting point to begin making sense of things.
 
 ### TL:DR;
 
@@ -15,8 +15,7 @@ Beyond that, GST registration becomes compulsory.
 ### Some Gotchas
 
 ### Constitution of your business
-
-* Individual and sole proprietorship are different things. You need a registration under Shops & Establishment Act, 1932, for the latter. An individual operates in their personal capacity.
+* Individual and sole proprietorship are **different** things. You need a registration under Shops & Establishment Act, 1932, for the latter. An individual operates completely in their personal capacity.
 
 #### GST
 * Export is considered inter-state supply.
