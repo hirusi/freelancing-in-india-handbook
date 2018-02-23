@@ -14,7 +14,7 @@ Beyond that, GST registration becomes compulsory.
 
 ### Some Gotchas
 
-### Constitution of your business
+#### Constitution of your business
 * Individual and sole proprietorship are **different** things. You need a registration under Shops & Establishment Act, 1932, for the latter. An individual operates completely in their personal capacity.
 
 #### GST
