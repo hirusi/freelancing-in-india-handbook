@@ -28,9 +28,21 @@ SOFTEX compliance is mandatory for those selling apps/games/softwares as a whole
 
 * The purpose code applicable to you will be **P0802 (Software consultancy/implementation, other than those covered in SOFTEX forms)**.
 
-### Receiving payments internationally
+## Defining "Export of Services"
 
-#### SWIFT
+Service export falls under [Section 2(6) of IGST Act](https://gst.caclub.in/section-26-of-igst-act-meaning-of-export-of-services/). You must satisfy all five conditions under the GST Act:
+
+> Definition of the term “Export of Services” under the Integrated Goods and Services Tax (IGST) Act, 2017  
+As per Section 2(6) of the Integrated Goods and Services Tax (IGST) Act, 2017, unless the context otherwise requires, the term “export of services” means the supply of any service when —
+1. the supplier of service is located in India;
+* the recipient of service is located outside India;
+* the place of supply of service is outside India;
+* the payment for such service has been received by the supplier of service in convertible foreign exchange; and
+* the supplier of service and the recipient of service are not merely establishments of a distinct person in accordance with Explanation 1 in section 8.
+
+## Receiving payments internationally
+
+### SWIFT
 
 The most well understood method of international transfer is SWIFT. Bankers get it, government babus get it, your local CA gets it. If you're registered under GST, take note of [CGST Rule 89(2)(c)](https://www.gst.caclub.in/rule-89-of-cgst-rules-2017-application-for-refund-of-tax-interest-penalty-fees-or-any-other-amount/) and [circular number 37/2018](http://www.cbec.gov.in/resources/htdocs-cbec/gst/circularno-37-cgst.pdf) dated 15.03.2018. You specifically need either a Bank Realisation Certificate or a Foreign Inward Remittance Certificate to "prove" your export was legal.
 
@@ -48,7 +60,7 @@ There are [102 member banks](http://www.fedai.org.in/InnerPageContent.aspx?Cid=2
 What does this mean for you? Exports which are zero-rated end up being taxed in a round-about way.  
 The normal rate of IGST (as per your SAC) will be applicable - but remember you cannot collect it from your client! It has to come out of your pocket while at the same time, you are ineligible for a refund. In this way, you actually get taxed and worse, the tax comes from your own revenue - unlike the normal case where you simply collect it from a customer and deposit it with the government.
 
-### Disclaimer
+## Disclaimer
 
 This only corresponds to web development/freelance coding at the moment.
 
