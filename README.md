@@ -61,6 +61,10 @@ There are [102 member banks](http://www.fedai.org.in/InnerPageContent.aspx?Cid=2
 What does this mean for you? Exports which are zero-rated end up being taxed in a round-about way.  
 The normal rate of IGST (as per your SAC) will be applicable - but remember you cannot collect it from your client! It has to come out of your pocket while at the same time, you are ineligible for a refund. In this way, you actually get taxed and worse, the tax comes from your own revenue - unlike the normal case where you simply collect it from a customer and deposit it with the government.
 
+#### IFS Code (IFSC)
+
+Certain banks might ask for your IFS code despite it being a SWIFT payment. This is risky as you may receive the money at a poor exchange rate as well as your bank being unable to issue you an Advice. This is because in this scenario, the origin bank might convert the funds to INR on their own and send that to your bank account. However, there is also a possibility this is just a regulatory requirement as per the origin bank and that the SWIFT transfer will proceed normally.
+
 ## Disclaimer
 
 This only corresponds to web development/freelance coding at the moment.
