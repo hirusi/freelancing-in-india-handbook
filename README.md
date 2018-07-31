@@ -67,6 +67,10 @@ Certain banks might ask for your IFS Code (IFSC) despite it being a SWIFT paymen
 
 However, there is also a possibility this is just a regulatory requirement as per the origin bank (this has happened!) and that the SWIFT transfer will proceed normally.
 
+### Other Routes
+
+Other routes include [TransferWise](https://transferwise.com/), [PayPal](https://www.paypal.com/) and Wire Transfers (SWIFT is a type of wire transfer).
+
 ## Disclaimer
 
 This only corresponds to web development/freelance coding at the moment.
