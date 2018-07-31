@@ -63,7 +63,9 @@ The normal rate of IGST (as per your SAC) will be applicable - but remember you 
 
 #### IFS Code (IFSC)
 
-Certain banks might ask for your IFS code despite it being a SWIFT payment. This is risky as you may receive the money at a poor exchange rate as well as your bank being unable to issue you an Advice. This is because in this scenario, the origin bank might convert the funds to INR on their own and send that to your bank account. However, there is also a possibility this is just a regulatory requirement as per the origin bank and that the SWIFT transfer will proceed normally.
+Certain banks might ask for your IFS Code (IFSC) despite it being a SWIFT payment. This is risky as you may receive the money at a poor exchange rate as well as your bank may be unable to issue you an Advice showing receipt of foreign currency and its conversion. This is because in this scenario, the origin bank might convert the funds to INR on their own and send that to your bank account as INR directly.
+
+However, there is also a possibility this is just a regulatory requirement as per the origin bank (this has happened!) and that the SWIFT transfer will proceed normally.
 
 ## Disclaimer
 
