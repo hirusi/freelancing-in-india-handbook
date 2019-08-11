@@ -67,6 +67,20 @@ Certain banks might ask for your IFS Code (IFSC) despite it being a SWIFT paymen
 
 However, there is also a possibility this is just a regulatory requirement as per the origin bank (this has happened!) and that the SWIFT transfer will proceed normally.
 
+### TransferWise
+
+Some users have claimed TransferWise is fine to accept international payments, and generally accepted by the tax dept. for filing taxes.
+
+Interestingly, TransferWise does not require you as an Indian business to possess an account with them. Check [their help article](https://transferwise.com/help/14/currencies/2932151/inr-transfers) for INR transfers, as on 11/08/2019.
+
+> Email transfers | No | Transfers to an email address are not available for payments to INR.
+
+I would recommend that you go through the whole document very carefully and get in touch with TransferWise if you have any concerns.
+
+However, the remitting party must be registered with TransferWise as a verified business to be able to send you payments.
+
+Your contracted client would ask you for your bank details, as in any regular domestic NEFT/IMPS bank transfer. However, do not make the mistake of receiving business funds in a savings account -- use only a current account.
+
 ### Other Routes
 
 Other routes include [TransferWise](https://transferwise.com/), [PayPal](https://www.paypal.com/) and Wire Transfers (SWIFT is a type of wire transfer).
