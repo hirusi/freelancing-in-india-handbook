@@ -2,7 +2,7 @@
 
 ## Structure
 
-Every topic has a distinct page, no matter how concise.
+The handbook was originally limited to web development to foreign clients. I'm working on expanding it to include SaaS offerings, paid apps on app stores, and so on - both domestically and internationally. Use caution. If something seems off or misleading, [please contribute](#contributions).
 
 ## Motivation
 
@@ -12,10 +12,10 @@ The legal framework is a mess. Consulting chartered accountants, banks, and the 
 
 Contributions are welcome. Each page has a link at the bottom, titled 'Help us improve this page'.
 
-## Disclaimer
+Please link to references wherever possible. If curating information from a bunch of different pages, link to them by creating a 'Resources' heading at the bottom of the page.
 
-This only corresponds to web development/freelance coding at the moment.
+## Disclaimer
 
 I am not legally liable for anything that you pick up from here and use. Use your discretion. Consult a chartered accountant and/or a lawyer. This is a handbook for legal how-tos, but that does not mean it maintains legal standing or integrity.
 
-Rules change frequently. I may not have kept up. You're free to contribute and help me maintain this based on your experiences.
+Rules change frequently. I may not have kept up. You're free to [contribute](#contributions) and help me maintain this based on your experiences.
