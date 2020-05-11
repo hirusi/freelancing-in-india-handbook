@@ -1,46 +1,18 @@
-# Freelancing In India: A Handbook 📗 ☔️
+# Getting paid
 
-## Overview
+## Dealing with banks
 
-### Why put together this handbook?
+In a case where you're ultimately getting paid through your bank, please note that most banks no longer issue a Foreign Inward Remittance Certificate (FIRC). Instead, they issue an eFIRA (electronic Foreign Inward Remittance Advice). The GST machinery, at least as of February 2018, does not consider an eFIRA to be proof of a foreign remittance.
 
-The legal framework is a mess. Consulting chartered accountants, banks, and the tax office, all of whom have their own version of the law, is a headache you shouldn't have to deal with when you're just starting out. This is to simplify things for you - give you a simple and comprehensive starting point to begin making sense of things.
+To avoid potentially losing income, ask your branch of interest prior to opening an account with them if they issue an FIRC. Alongside, consult a CA and speak to your local GST office and ask them if they accept an eFIRA.
 
-### TL:DR;
+The best course of action would be get an LUT before issuing any invoice at all. That way, you don't need to submit an FIRC to get 18% of your income back.
 
-#### Any registration mandatory?
+::: tip
+The purpose code applicable to an independent service provider will be **P0802 (Software consultancy/implementation, other than those covered in SOFTEX forms)**.
+:::
 
-Theoretically, you do not need anything whether you have foreign clients or just domestic clients, as long as you're earning below 20 lakhs per annum. Beyond that, GST registration becomes compulsory.
-
-IEC (Import-Export Code) is optional for export of services.
-
-SOFTEX compliance is mandatory for those selling apps/games/softwares as a whole package, not for provision of a continuous service. Basically, software is treated like a good.
-
-#### Constitution of your business
-* Individual and sole proprietorship are **different** things. You need a registration under Shops & Establishment Act, 1932, for the latter. An individual operates completely in their personal capacity - an Aadhaar card and a PAN card is all you need at the moment of writing for this.
-
-#### GST
-* Export is considered inter-state supply.
-* Zero-rated is not the same as exempt. 0% =/= Nil.
-
-#### Banks
-* Most banks do not issue an Foreign Inward Remittance Certificate. To avoid making a mess, ask your branch of interest prior to opening an account with them. HDFC is anecdotally known to issue eFIRCs - though you may have to try your luck.
-
-* The purpose code applicable to you will be **P0802 (Software consultancy/implementation, other than those covered in SOFTEX forms)**.
-
-## Defining "Export of Services"
-
-Service export falls under [Section 2(6) of IGST Act](https://gst.caclub.in/section-26-of-igst-act-meaning-of-export-of-services/). You must satisfy all five conditions under the GST Act:
-
-> Definition of the term “Export of Services” under the Integrated Goods and Services Tax (IGST) Act, 2017  
-As per Section 2(6) of the Integrated Goods and Services Tax (IGST) Act, 2017, unless the context otherwise requires, the term “export of services” means the supply of any service when —
-> * the supplier of service is located in India;
-> * the recipient of service is located outside India;
-> * the place of supply of service is outside India;
-> * the payment for such service has been received by the supplier of service in convertible foreign exchange; and
-> * the supplier of service and the recipient of service are not merely establishments of a distinct person in accordance with Explanation 1 in section 8.
-
-## Receiving payments internationally
+## International payments
 
 ### SWIFT
 
@@ -83,12 +55,8 @@ Your contracted client would ask you for your bank details, as in any regular do
 
 ### Other Routes
 
-Other routes include [TransferWise](https://transferwise.com/), [PayPal](https://www.paypal.com/) and Wire Transfers (SWIFT is a type of wire transfer).
+Other routes include [PayPal](https://www.paypal.com/) and Wire Transfers (SWIFT is a type of wire transfer).
 
-## Disclaimer
+## Domestic payments
 
-This only corresponds to web development/freelance coding at the moment.
-
-I am not legally liable for anything that you pick up from here and use. Use your discretion. Consult a chartered accountant and/or a lawyer. This is a handbook for legal how-tos, but that does not mean it maintains legal standing or integrity.
-
-Rules change frequently. I may not have kept up. You're free to open a PR to help other folks out.
+__This section needs contributions.__
