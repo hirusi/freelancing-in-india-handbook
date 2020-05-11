@@ -22,6 +22,7 @@ module.exports = {
 		// custom text for edit link. Defaults to "Edit this page"
 		editLinkText: "Help me improve this page!",
 		smoothScroll: true,
+		nav: [{ text: "Ru Singh", link: "https://rusingh.com" }],
 		sidebar: [
 			"/docs/",
 			"/docs/getting-started",
