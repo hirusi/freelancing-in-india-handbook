@@ -1,0 +1,25 @@
+{
+	"name": "freelancing-in-india-handbook",
+	"version": "2.0.0",
+	"description": "A simple and comprehensive guide to start making sense of the legal framework for Indian freelancers.",
+	"main": "",
+	"dependencies": {
+		"vuepress": "^1.4.1"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"dev": "vuepress dev docs",
+		"build": "vuepress build docs",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "github.com/hirusi/freelancing-in-india-handbook"
+	},
+	"keywords": [
+		"freelancing",
+		"legal"
+	],
+	"author": "Ru Singh <inbox@rusingh.com>",
+	"license": "MIT"
+}
