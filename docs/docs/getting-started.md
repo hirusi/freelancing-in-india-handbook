@@ -1,6 +1,6 @@
 # Getting started
 
-## Constituition of your business
+## Constitution of your business
 
 You have several options here, but the two simplest ones to start with are as an individual or as a registered sole proprietorship. If you have a partner, a partnership or an LLP is also worth considering.
 
